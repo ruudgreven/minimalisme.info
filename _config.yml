@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme"
 
 skin: "/assets/css/skins/default.css"
 locale: nl-NL
