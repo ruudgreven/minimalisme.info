@@ -1,7 +1,1 @@
----
-layout: home
-excerpt: "Terug naar de essentie"
-show_excerpts: true
-paginate: true
-entries_layout: list
----
+> Een blog over minimalisme en de essentie van het leven. Minimalisme is meer dan een zweverige yogi die zittend op zijn matje zijn volledig lege appartement overziet. Het gaat om het teruggaan naar de essentie van wat echt belangrijk voor je is. Het is een soort zoektocht, een levenswijze, maar geen exacte wetenschap. Je doet het dus altijd goed! Deze site is bedoeld om te inspireren en het nodige vermaak te bieden over de vaak iets te overvloedige wereld waarin we leven.
