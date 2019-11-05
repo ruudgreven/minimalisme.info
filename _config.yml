@@ -4,7 +4,7 @@ skin: "/assets/css/skins/light.css"
 locale: nl-NL
 title: "Minimalisme.info"
 description: "Terug naar de essentie"
-copyright: "&copy; {{ site.time | date: '%Y' }} Minimalisme.info. Powered by Jekyll & So Simple.\nIcons made by Freepik from Flaticon"
+copyright: "&copy; 2019 Minimalisme.info. Powered by [Jekyll](https://jekyllrb.com) & [So Simple](https://github.com/mmistakes/so-simple-theme).\nLogo made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/)"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: https://minimalisme.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.svg" # path of site logo, e.g. "/assets/images/logo.png"
